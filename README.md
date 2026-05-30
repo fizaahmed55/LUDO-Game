@@ -1,4 +1,4 @@
-# Rubble Ludo - C++ Console Game
+#  C++ Console Based Game
 
 ## Project Description
 
