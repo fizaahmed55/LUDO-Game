@@ -112,11 +112,3 @@ The main purpose of this project is to demonstrate how C++ programming concepts 
 * Add difficulty levels
 * Improve board design further
 * Add colored console output
-
-## Author
-
-Developed as a beginner-friendly C++ console game project for programming practice and academic submission.
-
-## License
-
-This project is open for educational use. You can modify and improve it for learning purposes.
